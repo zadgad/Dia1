@@ -1,0 +1,8 @@
+spread
+iventiva2019@gmail.com
+
+class auto 
+tipo = String,
+anio=number,
+hasSoat=boolean;
+toString() todos los atributos.
